@@ -6,7 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=EduardoABG&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="EduardoABG" />
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduardoABG&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="EduardoABG" /> 
+
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EduardoABG&theme=onedark&row=1&margin-w=5" alt="EduardoABG" /></a> </p>
 
