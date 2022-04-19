@@ -9,5 +9,5 @@
 
 <h4>Linguagens:</h4>
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15px" height="15px" /></p>
 
